@@ -1,3 +1,3 @@
-# Voxelit Deployed Repo
+# Tune It All Landing Page Deployed Repo
 
-**Visit at *https://vx.scottsun.io***
+**Visit at *https://tuneitall.scottsun.io***
