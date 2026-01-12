@@ -1,3 +1,3 @@
-# Tune It All Landing Page Deployed Repo
+# Tune It All IOS APP Page Deployed Repo
 
 **Visit at *https://tuneitall.scottsun.io***
